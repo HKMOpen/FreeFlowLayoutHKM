@@ -1,4 +1,4 @@
-FreeFlow
+FreeFlow Dynamic Layout
 ========
 
 A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as layouts are changed.
