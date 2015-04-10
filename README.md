@@ -1,5 +1,9 @@
+
+![Download](https://img.shields.io/github/tag/HKMOpen/FreeFlowLayoutHKM.svg?label=maven)
 FreeFlow Dynamic Layout
 ========
+
+Check Out the [Release Log](https://github.com/HKMOpen/FreeFlowLayoutHKM/releases)
 
 A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as layouts are changed.
 
